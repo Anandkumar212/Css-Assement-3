@@ -17,6 +17,7 @@
     font-size: 31px;
     font-style: italic;
     font-weight: 700;
+    text-shadow: 2px 2px 2px;
 }
 .parent{
     background-image: url(./general\ store.jpg);
@@ -35,6 +36,7 @@
     height: 150px;
     font-size: 27px;
     background-color: white;
+    text-shadow: 2px 2px 2px;
 }
 .image{
     border: 4px solid red;
@@ -71,6 +73,7 @@
     font-size: 20px;
     margin-top: 10%;
     background-color: white;
+    text-shadow: 2px 2px 2px;
    
 
 }
